@@ -1,0 +1,2 @@
+const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine"; // Cambia esta línea
+console.log(myStr)
