@@ -1,4 +1,5 @@
 // Cambia solo el código debajo de esta línea
-const myName = "Ricardo";
-const myStr = "My name is " + myName + " and I am well";
-console.log( myStr)
+const myName = "perros";
+const myStr = "todo bien " + myName + "";
+console.log(myStr);
+

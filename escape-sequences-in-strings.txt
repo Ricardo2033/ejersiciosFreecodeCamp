@@ -1,2 +1,2 @@
-const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"
-console.log(myStr); // Cambia esta línea
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Cambia esta línea
+console.log(myStr)

@@ -1,4 +1,4 @@
 const ourDecimal = 5.7;
 
 // Cambia solo el código debajo de esta línea
-var myDecimal = 9.4
+var myDecimal = 23.33

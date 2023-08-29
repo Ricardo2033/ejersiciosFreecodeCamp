@@ -1,9 +1,13 @@
 // Cambia solo el código debajo de esta línea
-var a = 5;
-var b = 10;
-var c = "I am a";
+var a;
+var b;
+var c;
 // Cambia solo el código encima de esta línea
 
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+a = 5 + 1; 
+b = 10 + 5;
+c = "I am a String!"

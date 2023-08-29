@@ -1,6 +1,2 @@
-// Configuración
-var a;
-
 // Cambia solo el código debajo de esta línea
-a = 7
-console.log(a)
+const myArray = ["ronny es puto", 69];
